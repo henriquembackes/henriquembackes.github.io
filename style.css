@@ -1,0 +1,37 @@
+main{
+    padding-left: 70px;
+    padding-top: 10px;
+}
+
+.name{
+    margin-left: 20px;
+}
+
+
+.ftPerfil{
+    width: 150px;
+    height: 150px;
+    border-radius: 150px;
+    padding: 15px;
+    border: 1px solid black;
+    background-color: rgb(247, 243, 243);
+}
+
+.title{
+    list-style: none;
+    color: red;
+    font-size: 16px;
+}
+
+.inf{
+    color: black;
+    margin-left: 30px;
+}
+
+header span{
+    vertical-align: 85px;
+}
+
+body{
+    margin-left: 35px;
+}
